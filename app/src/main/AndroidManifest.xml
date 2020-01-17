@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.maria.mariamihucoopculminating">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".attendancePage" />
+        <activity android:name=".filledInCamper" />
+        <activity android:name=".camper1" />
+        <activity android:name=".camper2" />
+        <activity android:name=".camper3" />
+        <activity android:name=".camper4" />
+        <activity android:name=".camper5" />
+        <activity android:name=".AdministrativePage" />
+        <activity android:name=".adminDatabase" />
+        <activity android:name=".adminHomepage" />
+        <activity android:name=".editCounsellorInfo" />
+        <activity android:name=".NewPasswordCreator"></activity>
+    </application>
+
+</manifest>

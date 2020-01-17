@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MariaMihuCOOPCulminating</string>
+    <string name="button_send">SIGN IN</string>
+    <string name="wrongPasswordEmpty" />
+    <string name="adminPassword">accountaccess2018</string>
+    <string name="adminButton">ADMIN ONLY</string>
+    <string name="textForSaveButton">SAVE</string>
+    <string name="emptyMondayMorn" />
+    <string name="Checkbox">BBQ</string>
+    <string name="BeforeCare">BC</string>
+    <string name="notApplicable">N/A</string>
+    <string name="AfterCare">AC</string>
+    <string name="camperFilledIn">FIRST LAST 1</string>
+    <string name="allOtherCampers"> FIRST LAST </string>
+    <string name="Message">Click on a camper to view full profile and attendance record</string>
+    <string name="CamperTitle">Camper Profile</string>
+    <string name="emptyString" />
+    <string name="CamperName">Full Name:</string>
+    <string name="Age">Age:</string>
+    <string name="Allergies">Allergies:</string>
+    <string name="Siblings">Siblings:</string>
+    <string name="adminNotes">Additional Notes:</string>
+    <string name="counsellorNoteInput">Add Notes:</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Friday">Friday</string>
+    <string name="awaitingInput" />
+    <string name="filledinAge">8</string>
+    <string name="filledinName">Susie Smith</string>
+    <string name="filledinAllergies">YES: peanuts + shellfish</string>
+    <string name="filledinSiblings">Bobbie Smith, Carl Smith</string>
+    <string name="filledinAdminNotes">Will not be at camp on Tuesdays because of parental custody arrangements</string>
+    <string name="extraInfo">[Here is where counsellor \"extra notes\" would appear]</string>
+    <string name="in">IN</string>
+    <string name="out">OUT</string>
+    <string name="adminUser">Please enter administrative credentials:</string>
+    <string name="filler">password</string>
+    <string name="header4admin">Update Camper Information</string>
+    <string name="editedAdminNotes">Extra Notes:</string>
+    <string name="welcome">Welcome!</string>
+    <string name="camperNEWfilledin">FILLED IN</string>
+    <string name="camper1">CAMPER 1</string>
+    <string name="camper2">CAMPER 2</string>
+    <string name="adminWelcome">Welcome, Admin!</string>
+    <string name="adminGreeting">What would you like to do today?</string>
+    <string name="firstAdminButton">Edit Schedule</string>
+    <string name="secondAdminButton">Edit Camper Information</string>
+    <string name="thirdAdminButton">Register New Camper</string>
+    <string name="fourthAdminButton">Update COUNSELLOR List</string>
+    <string name="header4admincouns">Add New Counsellor</string>
+    <string name="position">Position:</string>
+    <string name="otherbuttonadmincouns">Update Existing</string>
+    <string name="firstName">First Name:</string>
+    <string name="lastName">Last Name:</string>
+    <string name="booleanForSQL">Access to Account?</string>
+    <string name="newPasswordTitle">Please set a new password to continue.</string>
+    <string name="newPasswordPrompt1">Enter your name:</string>
+    <string name="newPasswordPrompt2">Enter old password:</string>
+    <string name="newPasswordPrompt3">Enter NEW password:</string>
+    <string name="newPasswordPrompt4">CONFIRM NEW password:</string>
+    <string name="buttonOnNewPassword">Continue</string>
+    <string-array name="options_array">
+        <item>submit</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="options_array2">
+        <item>SELECT</item>
+        <item>YES (Seniors + Shared Seniors)</item>
+        <item>NO (Juniors)</item>
+    </string-array>
+
+</resources>
